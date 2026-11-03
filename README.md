@@ -1,4 +1,4 @@
-# Vedant Sood
+# Wassup
 
 I’m interested in how software and hardware can help us understand and solve physical problems. My work spans AI, embedded systems, environmental sensing and scientific computing.
 
